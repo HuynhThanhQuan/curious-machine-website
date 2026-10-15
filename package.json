@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint src",
     "typecheck": "tsc --noEmit",
-    "smoke": "node scripts/smoke.mjs --full"
+    "smoke": "node scripts/smoke.mjs --full",
+    "check:site": "node scripts/check-site.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",
