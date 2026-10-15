@@ -1,4 +1,7 @@
-# Curious Machine Website
+# Curious Machine — official website
+
+The official website of Curious Machine. This repository replaces the archived
+[`landing_page`](https://github.com/HuynhThanhQuan/landing_page) repo (full history kept).
 
 Applied Data & AI public site: English/Vietnamese home, eleven experiment packages,
 three field notes and collaboration/contact information. Next.js static export.
